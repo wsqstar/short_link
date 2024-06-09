@@ -5,6 +5,11 @@
       "destination": "https://blog.1314.io/",
       "permanent": false
     },
+    {
+      "source": "/github",
+      "destination": "https://github.com/wsqstar",
+      "permanent": false
+    },
       {
       "source": "/gis-baoyan",
       "destination": "https://gisphere-info.feishu.cn/sheets/LZSWssK8rhkFWItMtKMcBHcXnII",
