@@ -1,9 +1,10 @@
-## xvo.es
+## gis2.cc
 
 **A simple, minimal and safe URL Shortener.**
 
-> Powerd by [**Cloudflare** <img src="img/CF_logomark.svg" alt="CF_logomark" width="50" height="50">](https://www.cloudflare.com/)
+> Powerd by [**Vercel**](https://vercel.com/)
 
+ 
 1. Minimal and Simple
 
     *keep fast and stable.*
