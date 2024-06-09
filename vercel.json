@@ -24,6 +24,11 @@
       "source": "/group",
       "destination": "https://t.me/dejavuGroup",
       "permanent": false
+    },
+      {
+      "source": "/gis-baoyan",
+      "destination": "https://gisphere-info.feishu.cn/sheets/LZSWssK8rhkFWItMtKMcBHcXnII",
+      "permanent": false
     }
   ]
 }
